@@ -22,7 +22,7 @@
 
  - 📍From Campo Grande - MS 🇧🇷
 
-## 🖥️ Technologies:
+## 🖥️ Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +36,7 @@
  
 </div>
  
-## Contact me📱
+## 📱Contact me
 
 <div>
 <a href = "mailto:adaobjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,7 +44,7 @@
 <a href = "https://api.whatsapp.com/send?phone=5567992252201"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
- ## Follow me 👍
+ ## 👍 Follow me
  
 <div> 
 <a href="https://instagram.com/adao_jrr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
