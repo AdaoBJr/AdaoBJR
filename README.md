@@ -32,7 +32,6 @@
     <img align="center" alt="Adao-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
  <img align="center" alt="Adao-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
   <img align="center" alt="Adao-Branch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="Adao-Redux" height="30" width="40" src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet-thumbnail.png">
  
 </div>
  
