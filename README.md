@@ -21,8 +21,6 @@
 🌎 Know the four corners of the world is my dream.
 
  - 📍From Campo Grande - MS 🇧🇷
- - 
-
 
 ## 🖥️ Technologies:
 
@@ -38,7 +36,7 @@
  
 </div>
  
-## Contact me
+## Contact me 📞
 
 <div>
 <a href = "mailto:adaobjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
