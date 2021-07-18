@@ -14,6 +14,7 @@
 🌎 Know the four corners of the world is my dream.
 
  - 📍From Campo Grande - MS 🇧🇷
+ - 📄 See my <a href = "https://gitconnected.com/adaobjr/resume">Curriculum Vitae</a> to get more info
 
 ## 🖥️ Technologies
 
