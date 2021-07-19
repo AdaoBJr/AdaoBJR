@@ -3,7 +3,7 @@
 
 👨🏻‍💻 I'm a web development at studenty at Trybe School.
  </br>
-🤓 I'm currently learning React. I'm very interested in improving my knowledge in Redux and Hooks.
+🤓 I'm currently learning React. I'm very interested in improving my knowledge in Back-End.
 </br>
 👨🏻‍🎓 Furthermore, I'm degree in Civil Engineering and Physics.
 </br>
