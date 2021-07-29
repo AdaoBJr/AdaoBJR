@@ -3,7 +3,7 @@
 
 👨🏻‍💻 I'm a web development at studenty at Trybe School.
  </br>
-🤓 I'm currently learning Back-End features. I'm very interested in improving my knowledge constantly.
+🤓 I'm currently learning Back-End features. I'm very interested in improving my knowledge in web development.
 </br>
 👨🏻‍🎓 Furthermore, I'm degree in Civil Engineering and Physics.
 </br>
