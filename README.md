@@ -1,7 +1,7 @@
 # Hey, I'm Adão Junior 👋🏻
-## Who I am? 👦🏻
+## Who am I? 👦🏻
 
-👨🏻‍💻 I'm a web development at studenty Trybe School.
+👨🏻‍💻 I'm a web development studenty at Trybe School.
  </br>
 🤓 I'm currently learning Back-End features. I'm very interested in improving my knowledge in web development.
 </br>
