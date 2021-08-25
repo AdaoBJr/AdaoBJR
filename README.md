@@ -1,13 +1,13 @@
 # Hey, I'm Adão Junior 👋🏻
 ## Who am I? 👦🏻
 
-👨🏻‍💻 I'm a web development studenty at Trybe School.
+👨🏻‍💻 I'm a web development student at Trybe School.
  </br>
 🤓 I'm currently learning Back-End features. I'm very interested in improving my knowledge in web development.
 </br>
 👨🏻‍🎓 I have degree in Civil Engineering and Physics.
 </br>
-🏃🏻 I'm constantly on the move. Never accommodate!
+🏃🏻 I'm constantly on the move. Never accommodated!
 </br>
 💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 </br>
